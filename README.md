@@ -1,2 +1,2 @@
 # SQL-sales
-This is SQL dataset 
+This is an SQL dataset for practice 
